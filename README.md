@@ -1,4 +1,6 @@
 # README
+This is the repository for my first rails application
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
